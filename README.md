@@ -1,34 +1,10 @@
 ## 功能介绍 
     
-艺术馆美术馆门户小程序：打造集美术鉴赏、艺术科普、当代优秀艺术品交流多功能融艺术性、知识性、趣味性、便利性于一体的一站式平台， 为广大艺术爱好者提供优质服务！小程序前后端完整，主要功能包括本馆动态，本馆服务指南，馆藏艺术品展示，常设展览和临时展览介绍，入馆预约，活动讲座预约等功能，采用腾讯提供的小程序云开发解决方案，预约系统可以让参观者合理安排时间行程，前往参观的市民直接通过微信小程序进行预约，省时省力，为艺术馆搭建更为广泛的网络交流平台，更加便捷地服务于广大艺术爱好者需求
-
-- 预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
-- 预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
-- 详尽的预约数据：支持预约名单数据导出Excel，打印
-
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+面对当前疫情形势，中州当代美术馆积极拓展线上微信小程序功能，目前上线业务包括展览、活动、数据、文章、预约，停车等功能模块，基本涵盖了场馆近几年多元化的艺术业务类型。同时，通过数字化技术手段的应用，小程序业务的启用将为美术馆搭建更为广泛的网络学习交流平台，今后更加便捷地服务于广大艺术爱好者需求
  
-
-## 技术运用
-- 本项目使用微信小程序平台进行开发。
-- 使用腾讯专门的小程序云开发技术，云资源包含云函数，数据库，带宽，存储空间，定时器等，资源配额价格低廉，无需域名和服务器即可搭建。
-- 小程序本身的即用即走，适合小工具的使用场景，也适合快速开发迭代。
-- 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
-- 资源承载力可根据业务发展需要随时弹性扩展。  
-
-
-
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信:
+ ![image](https://user-images.githubusercontent.com/102836583/161353979-5e3aa9cd-a226-4fc5-9e0b-8b613f3ca832.png)
  
- ![输入图片说明](demo/author-base.png)
-
-
-
-## 演示
  
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
  
 
 ## 安装
@@ -38,30 +14,31 @@
 
 
 
-## 截图
+## 截图 
+![image](https://user-images.githubusercontent.com/102836583/161353988-30847429-ae80-4d5a-8751-ec634eff6899.png)
+![image](https://user-images.githubusercontent.com/102836583/161353991-dcbf7fa6-e7fc-4705-9da4-49032a262736.png)
+![image](https://user-images.githubusercontent.com/102836583/161353993-859c4a0a-ef6a-4f81-8fa6-7afdd6b6ff5c.png)
+![image](https://user-images.githubusercontent.com/102836583/161353996-213e4dc2-01f4-46a4-98f9-c7ba276e124d.png)
+![image](https://user-images.githubusercontent.com/102836583/161353999-54d3335c-d7f4-4da5-b21d-47f58620ffa3.png)
+![image](https://user-images.githubusercontent.com/102836583/161354003-4bd9cf5b-44d4-4868-acdf-cecdb6b09ead.png)
+![image](https://user-images.githubusercontent.com/102836583/161354005-b60759d4-a1f2-470e-8b95-8848181f1917.png)
+![image](https://user-images.githubusercontent.com/102836583/161354007-da6ae4e2-b9c6-41f8-b745-166eadaac795.png)
+![image](https://user-images.githubusercontent.com/102836583/161354009-dc3a2870-2bf4-4c69-bc30-ece706c338e9.png)
 
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
 
-![输入图片说明](demo/2%E6%9C%AC%E9%A6%86%E8%B5%84%E8%AE%AF.png)
+## 后台管理系统截图  
+![image](https://user-images.githubusercontent.com/102836583/161354012-59cc68b2-3edb-42e0-b97a-5bc72db5e984.png)
+![image](https://user-images.githubusercontent.com/102836583/161354013-8e171e13-ea58-4212-8a6f-4f56c1fad754.png)
+![image](https://user-images.githubusercontent.com/102836583/161354019-f7c72b17-f0f7-4e07-a68a-4aa131c3cc8e.png)
+![image](https://user-images.githubusercontent.com/102836583/161354022-1def0446-9c35-4961-aff5-884524109869.png)
+![image](https://user-images.githubusercontent.com/102836583/161354024-fc4f64f8-0b90-40de-b62a-7ee966a02e06.png)
+![image](https://user-images.githubusercontent.com/102836583/161354025-2c7055a9-4b50-4856-8f3f-542cd60f4a25.png)
+![image](https://user-images.githubusercontent.com/102836583/161354029-f822221c-c5cd-4c40-ae2b-9b9f5ad61be1.png)
+![image](https://user-images.githubusercontent.com/102836583/161354032-5b1f07fc-921e-488f-8558-066d067632dc.png)
+![image](https://user-images.githubusercontent.com/102836583/161354036-bdb8fcb0-448d-483f-b12a-b1b1a4a057fa.png)
+![image](https://user-images.githubusercontent.com/102836583/161354040-21d19107-b547-4837-bdf0-631fe5c54540.png)
 
-![输入图片说明](demo/3%E6%9C%AC%E9%A6%86%E6%A6%82%E5%86%B5.png)
-![输入图片说明](demo/4%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/5%E6%88%91%E7%9A%84.png)
- ![输入图片说明](demo/6%E5%85%A5%E9%A6%86%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/7%E8%AE%B2%E5%BA%A7%E9%A2%84%E7%BA%A6.png)
 
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
 
-![输入图片说明](demo/10%E9%A2%84%E7%BA%A6%E6%88%90%E5%8A%9F.png)
-## 后台管理系统截图
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/12%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/13%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0.png)
 
- ![输入图片说明](demo/14%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/15%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/16%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/19%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/20%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E5%AF%BC%E5%85%A5.png)
+
